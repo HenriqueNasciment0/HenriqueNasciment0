@@ -1,7 +1,7 @@
 ### Olá, eu sou Henrique Nascimento, Programador front-end 👋
 
 - 🔭 Estou em transição de carreira
-- 💻 Estou estudando Desenvolvimento Web Full Stack na Trybe
+- 💻 Estudo Desenvolvimento Web Full Stack na Trybe
 - 😄 Pronomes: ele/dele.
 
 <div align="center">
