@@ -4,6 +4,15 @@
 - 💻 Estudo Desenvolvimento Web Full Stack na Trybe
 - 😄 Pronomes: ele/dele.
 
+#### Estudo programação Full Stack na @trybe desde novembro de 2021. 
+Até aqui, ___já concluí a formação de Front-end___, e estou na metade da formação de Back-end.
+
+Corretor a mais de uma década, tomei a iniciativa de fazer uma trasição de carreira para uma área
+que sempre me interessou. Estou animado em ter minha primeira oportunidade de emprego como Desenvolvedor Júnior / Programador!
+
+Por aqui você conseguirá ver alguns dos projetos que realizei durante o curso da Trybe.
+Pelo Linkedin, você terá mais informações sobre mim. 😊👍
+
 <div align="center">
   <a href="https://github.com/HenriqueNasciment0">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenriqueNasciment0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
