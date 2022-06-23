@@ -7,7 +7,7 @@
 #### Estudo programação Full Stack na @trybe desde novembro de 2021. 
 Até aqui, ___já concluí a formação de Front-end___, e estou na metade da formação de Back-end.
 
-Corretor a mais de uma década, tomei a iniciativa de fazer uma trasição de carreira para uma área
+Corretor de Imóveis a mais de uma década, tomei a iniciativa de fazer uma trasição de carreira para uma área
 que sempre me interessou. Estou animado em ter minha primeira oportunidade de emprego como Desenvolvedor Júnior / Programador!
 
 Por aqui você conseguirá ver alguns dos projetos que realizei durante o curso da Trybe.
