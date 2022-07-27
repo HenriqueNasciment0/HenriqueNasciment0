@@ -8,7 +8,7 @@
 Até aqui, ___já concluí a formação de Front-end___, e estou na metade da formação de Back-end.
 
 Corretor de Imóveis a mais de uma década, tomei a iniciativa de fazer uma trasição de carreira para uma área
-que sempre me interessou. Estou animado em ter minha primeira oportunidade de emprego como Desenvolvedor Júnior / Programador!
+que sempre me interessou. Estou animado em ter minha primeira oportunidade de emprego como Desenvolvedor/Programador Júnior!
 
 Por aqui você conseguirá ver alguns dos projetos que realizei durante o curso da Trybe.
 Pelo Linkedin, você terá mais informações sobre mim. 😊👍
