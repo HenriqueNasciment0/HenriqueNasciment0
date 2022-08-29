@@ -1,4 +1,4 @@
-### Olá, eu sou Henrique Nascimento, Programador Front-end e Estudante de Back-end 👋
+### Olá, eu sou Henrique Nascimento, Desenvolvedor Full Stack 👋
 
 - 🔭 Estou em transição de carreira
 - 💻 Estudo Desenvolvimento Web Full Stack na Trybe
