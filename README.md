@@ -5,7 +5,7 @@
 - 😄 Pronomes: ele/dele.
 
 #### Estudo programação Full Stack na @trybe desde novembro de 2021. 
-Até aqui, ___já concluí a formação de Front-end___, e estou na metade da formação de Back-end.
+####___Formação Full Stack___, na Trybe.
 
 Corretor de Imóveis a mais de uma década, tomei a iniciativa de fazer uma trasição de carreira para uma área
 que sempre me interessou. Estou animado em ter minha primeira oportunidade de emprego como Desenvolvedor/Programador Júnior!
