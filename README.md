@@ -1,7 +1,7 @@
 ### Olá, eu sou Henrique Nascimento, Desenvolvedor Full Stack 👋
 
 - 🔭 Estou em transição de carreira
-- 💻 Estudo Desenvolvimento Web Full Stack na Trybe
+- 💻 Desenvolvedor Web Full Stack formado pela Trybe
 - 😄 Pronomes: ele/dele.
 
 #### Estudo programação Full Stack na @trybe desde novembro de 2021. 
