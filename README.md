@@ -4,7 +4,7 @@
 - 💻 Desenvolvedor Web Full Stack formado pela Trybe
 - 😄 Pronomes: ele/dele.
 
-#### Estudo programação Full Stack na @trybe desde novembro de 2021. 
+#### Estudei programação Full Stack na @trybe de novembro de 2021 a dezembro de 2022. 
 ___Formação Full Stack___, na Trybe.
 
 Corretor de Imóveis a mais de uma década, tomei a iniciativa de fazer uma trasição de carreira para uma área
