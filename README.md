@@ -13,7 +13,7 @@ que sempre me interessou. Estou animado em ter minha primeira oportunidade de em
 Por aqui você conseguirá ver alguns dos projetos que realizei durante o curso da Trybe.
 Pelo Linkedin, você terá mais informações sobre mim. 😊👍
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HenriqueNasciment0=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueNasciment0)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <a href="https://github.com/HenriqueNasciment0">
