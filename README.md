@@ -13,14 +13,10 @@ que sempre me interessou. Estou animado em ter minha primeira oportunidade de em
 Por aqui você conseguirá ver alguns dos projetos que realizei durante o curso da Trybe.
 Pelo Linkedin, você terá mais informações sobre mim. 😊👍
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueNasciment0&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNasciment0&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">
   <a href="https://github.com/HenriqueNasciment0">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenriqueNasciment0&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNasciment0&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenriqueNasciment0&show_icons=true&theme=gruvbox"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNasciment0&layout=compact&theme=gruvbox"/>
 </div>
   
   ### Stacks adquiridas:
