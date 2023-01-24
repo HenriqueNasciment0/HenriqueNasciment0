@@ -16,7 +16,7 @@ Pelo Linkedin, você terá mais informações sobre mim. 😊👍
 <div align="center">
   <a href="https://github.com/HenriqueNasciment0">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=HenriqueNasciment0&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNasciment0&layout=compact&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNasciment0&layout=compact&theme=tokyonight"/>
 </div>
   
   ### Stacks adquiridas:
