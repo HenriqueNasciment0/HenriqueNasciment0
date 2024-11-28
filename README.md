@@ -1,6 +1,6 @@
-### Olá, eu sou Henrique Nascimento, Desenvolvedor Full Stack 👋
+### Hello, I'm Henrique Nascimento, Software Engineer Full Stack 👋
 
-- 💻 Desenvolvedor Full Stack na [MRP Solution](https://mrpsolution.com.br/)
+- 💻 Software Engineer Full Stack in [MRP Solution](https://mrpsolution.com.br/)
 - 😄 Pronomes: ele/dele.
 
 Por aqui você conseguirá ver alguns dos projetos que realizei na época do curso da Trybe e alguns projetos pessoais.
