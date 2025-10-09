@@ -1,6 +1,6 @@
 ### Hello, I'm Henrique Nascimento, Software Engineer Full Stack 👋
 
-- 💻 Software Engineer Full Stack in [Devnology](https://devnology.com.br/)
+- 💻 Software Engineer Full Stack in [MRP Solution](https://www.mrpsolution.com.br/)
 - 😄 Pronomes: ele/dele.
 
 Por aqui você conseguirá ver alguns dos projetos que realizei na época do curso da Trybe e alguns projetos pessoais.
